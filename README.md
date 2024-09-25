@@ -82,7 +82,6 @@ EcoMercatura combines cutting-edge web technologies with user-centric design to 
 ## Tech Stack 🛠️
 
 - **Frontend**: ReactJS, Redux, HTML, CSS, JavaScript
-- **Backend**: Express.js, Node.js
 - **Database**: Firebase
 
 EcoMercatura is built using modern web technologies to ensure scalability, security, and performance. Join us in creating a sustainable future with a powerful e-commerce platform that prioritizes user experience and eco-friendliness.
