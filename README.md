@@ -2,7 +2,28 @@
 
 EcoMercatura is a sophisticated and responsive e-commerce platform designed to deliver a seamless online shopping experience. Built as a Single Page Application (SPA), EcoMercatura ensures instant response times, enhancing user interaction and satisfaction. The platform is fully responsive, providing an optimal viewing and interaction experience across both desktop and mobile devices.
 
-<img src="./public/assets/background/Home Page1.png">
+## Home Page
+
+<img src="./public/assets/background/homepageo.png">
+<img src="./public/assets/background/Homepage2.png">
+<img src="./public/assets/background/HomePage3.png">
+
+## My Contracts Page
+
+<img src="./public/assets/background/mycontracts.png">
+
+## Listed Products Page
+
+<img src="./public/assets/background/listed.png">
+
+## Resource Planning and Management Page
+
+<img src="./public/assets/background/resource.png">
+
+## Sign Up Page
+
+<img src="./public/assets/background/signup.png">
+
 ## Key Features ✨
 
 ### Account Management 👤
